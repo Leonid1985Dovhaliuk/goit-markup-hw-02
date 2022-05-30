@@ -1,0 +1,12 @@
+body{
+    font-family: "Roboto", Raleway, Oleo Script;
+}
+
+.list{
+list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
